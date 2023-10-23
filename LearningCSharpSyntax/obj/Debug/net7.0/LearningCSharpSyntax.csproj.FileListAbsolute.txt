@@ -1,0 +1,14 @@
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\LearningCSharpSyntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\LearningCSharpSyntax.AssemblyInfoInputs.cache
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\LearningCSharpSyntax.AssemblyInfo.cs
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\LearningCSharpSyntax.csproj.CoreCompileInputs.cache
+D:\C_Sharp\LearningCSharpSyntax\bin\Debug\net7.0\LearningCSharpSyntax.exe
+D:\C_Sharp\LearningCSharpSyntax\bin\Debug\net7.0\LearningCSharpSyntax.deps.json
+D:\C_Sharp\LearningCSharpSyntax\bin\Debug\net7.0\LearningCSharpSyntax.runtimeconfig.json
+D:\C_Sharp\LearningCSharpSyntax\bin\Debug\net7.0\LearningCSharpSyntax.dll
+D:\C_Sharp\LearningCSharpSyntax\bin\Debug\net7.0\LearningCSharpSyntax.pdb
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\LearningCSharpSyntax.dll
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\refint\LearningCSharpSyntax.dll
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\LearningCSharpSyntax.pdb
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\LearningCSharpSyntax.genruntimeconfig.cache
+D:\C_Sharp\LearningCSharpSyntax\obj\Debug\net7.0\ref\LearningCSharpSyntax.dll
